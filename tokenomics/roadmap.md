@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/GIT.jpg
 coverY: 0
 ---
 
@@ -16,7 +17,7 @@ coverY: 0
 
 **STEP 2**
 
-* [ ] **Launch USEPHONE2EARN Token (Liquidity Locked for 120 months)**
+* [ ] **Launch PHONE2EARN Token (Liquidity Locked for 120 months)**
 * [ ] **Published News about project in MarketWatch, Digital Journal, and more**
 * [ ] **Daily Media Publicaon**
 * [ ] **Coingecko & CoinMarketCap Fast Track Listing**

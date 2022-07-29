@@ -15,7 +15,7 @@
   * [📳 About METAVERSE](overview/features/about-metaverse.md)
   * [📳 NFT Marketpalce](overview/features/nft-marketpalce.md)
 * [📲 Earnings model](overview/earnings-model.md)
-  * [📳 UsePhone2Earn NFT](overview/earnings-model/usephone2earn-nft.md)
+  * [📳 Phone2Earn NFT](overview/earnings-model/phone2earn-nft.md)
   * [📳 Mission system](overview/earnings-model/mission-system.md)
   * [📳 Metaverse](overview/earnings-model/metaverse.md)
   * [📳 Staking](overview/earnings-model/staking.md)
@@ -27,7 +27,11 @@
 
 ## Tokenomics
 
-* [📞 Tokenomics](tokenomics/tokenomics.md)
+* [📞 Tokenomics](group-1/page-1.md)
 * [📞 Taxes](tokenomics/taxes.md)
 * [📞 Roadmap](tokenomics/roadmap.md)
-* [Partnerships](tokenomics/partnerships.md)
+* [📞 Partnerships](tokenomics/partnerships.md)
+
+## access our social networks:&#x20;
+
+* [Page 1](access-our-social-networks/page-1.md)
