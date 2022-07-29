@@ -14,7 +14,7 @@
   * [📳 About the scalability level](overview/features/about-the-scalability-level.md)
   * [📳 About METAVERSE](overview/features/about-metaverse.md)
   * [📳 NFT Marketpalce](overview/features/nft-marketpalce.md)
-* [📲 Earnings model](overview/earnings-model/README.md)
+* [📲 Earnings model](overview/earnings-model.md)
   * [📳 UsePhone2Earn NFT](overview/earnings-model/usephone2earn-nft.md)
   * [📳 Mission system](overview/earnings-model/mission-system.md)
   * [📳 Metaverse](overview/earnings-model/metaverse.md)
@@ -25,6 +25,9 @@
   * [📳 Increase your cycle of friendships and contacts](overview/benefits-for-investors-and-users/increase-your-cycle-of-friendships-and-contacts.md)
   * [📳 Routine](overview/benefits-for-investors-and-users/routine.md)
 
-## Group 1
+## Tokenomics
 
-* [Page 1](group-1/page-1.md)
+* [📞 Tokenomics](tokenomics/tokenomics.md)
+* [📞 Taxes](tokenomics/taxes.md)
+* [📞 Roadmap](tokenomics/roadmap.md)
+* [Partnerships](tokenomics/partnerships.md)
