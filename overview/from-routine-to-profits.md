@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# From routine to profits
+# 📶 From routine to profits
 
 * How can a routine become profitable?
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Phone2Earn System, Anti-cheat and NFT
+# 📱 Phone2Earn System, Anti-cheat and NFT
 
 * Participants must buy an amount of 1000 tokens and be holders to be eligible for the earnings system, being able to obtain NFT in the Market to increase their daily earnings.
 

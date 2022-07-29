@@ -2,6 +2,6 @@
 coverY: 0
 ---
 
-# About the scalability level
+# 📳 About the scalability level
 
-### The integrated ecosystem will be a large-scale enterprise. all projects with scalability potential will be an important consideration because it will be accessible to a worldwide user base.
+* [x] The integrated ecosystem will be a large-scale enterprise. all projects with scalability potential will be an important consideration because it will be accessible to a worldwide user base.
