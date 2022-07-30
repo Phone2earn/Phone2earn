@@ -31,6 +31,7 @@
 * [📞 Taxes](tokenomics/taxes.md)
 * [📞 Roadmap](tokenomics/roadmap.md)
 * [📞 Partnerships](tokenomics/partnerships.md)
+* [📞 Powered by a Team](tokenomics/powered-by-a-team.md)
 * [➡ Fairlaunch](https://www.pinksale.finance/?chain=BSC)
 
 ## access our social networks:&#x20;
@@ -38,6 +39,7 @@
 * [☑ Website](https://phone2earn.io/)
 * [☑ Twitter](https://twitter.com/phone2earn)
 * [☑ Youtube](https://www.youtube.com/channel/UCQr6GDGxwo2611bpsosv1qQ)
+* [☑ Telegram](https://t.me/Phone2Earn)
 * [☑ Discord](https://discord.gg/Xx9mPC6t8c)
 * [☑ Reddit](https://www.reddit.com/user/Phone2earn)
 * [☑ Medium](https://medium.com/@Phone2earn)
