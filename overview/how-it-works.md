@@ -5,7 +5,7 @@ coverY: 0
 
 # 📱 How it works?
 
-* Our app will be available for download, and once installed you can connect your wallet with your Phone2Earn tokens and from then on every second of use, while your cell phone screen is on, will count towards your income
+* Our app will be available for download, and once installed you can connect your wallet with your Phone tokens and from then on every second of use, while your cell phone screen is on, will count towards your income
 
 ### **Social Connection and Metaverse**
 

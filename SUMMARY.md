@@ -12,7 +12,7 @@
   * [📳 Simplicity](overview/features/simplicity.md)
   * [📳 About our Sustainability](overview/features/about-our-sustainability.md)
   * [📳 About the scalability level](overview/features/about-the-scalability-level.md)
-  * [📳 About METAVERSE](overview/features/about-metaverse.md)
+  * [📳 About Metaverse](overview/features/about-metaverse.md)
   * [📳 NFT Marketpalce](overview/features/nft-marketpalce.md)
 * [📲 Earnings model](overview/earnings-model.md)
   * [📳 Phone2Earn NFT](overview/earnings-model/phone2earn-nft.md)
