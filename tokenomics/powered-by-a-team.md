@@ -8,7 +8,7 @@ coverY: 0
 * The Phone2earn team combines passion for techonology, blockchain expertise, developmente and marketing.
 
 ![Waylon Spencer
-CEO & Lead Blockchain](<../.gitbook/assets/Waylon Spencer.png>) ![Stefan Rogers
+CEO & Lead Blockchain](../.gitbook/assets/Waylon-Spencer¹.png) ![Stefan Rogers
 CTO & Senior Developer](<../.gitbook/assets/Stefan Rogers.png>) ![Bryan Hoffman
 Blockchain App Developer](<../.gitbook/assets/Bryan Hoffman.png>) ![Elizabeth Riley
 Community Management](../.gitbook/assets/Elizabeth.png)
