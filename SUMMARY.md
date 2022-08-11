@@ -31,7 +31,6 @@
 * [📞 Taxes](tokenomics/taxes.md)
 * [📞 Roadmap](tokenomics/roadmap.md)
 * [📞 Partnerships](tokenomics/partnerships.md)
-* [📞 Powered by a Team](tokenomics/powered-by-a-team.md)
 * [➡ Fairlaunch](https://www.pinksale.finance/?chain=BSC)
 
 ## access our social networks:&#x20;

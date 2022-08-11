@@ -5,5 +5,12 @@ coverY: 0
 
 # 📞 Tokenomics
 
-* [x] Pre-sale participants will receive 50% of their total allocation at launch and then the rest will be released weekly from 10% to 10%, ensuring token sustainability, and as an anti-dump system.
-* [x] Team tokens will be locked for the 24 months (2 years)
+* [x] Presale 30%&#x20;
+* [x] Liquidity 15%&#x20;
+* [x] Team 5%&#x20;
+* [x] AirDrop 3%&#x20;
+* [x] Phone2Earn 30%&#x20;
+* [x] Marketing 7%&#x20;
+* [x] Cex Listing 10%
+
+![](../.gitbook/assets/photo\_2022-08-11\_00-05-08.jpg)

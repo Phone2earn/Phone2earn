@@ -5,8 +5,15 @@ coverY: 0
 
 # 📞 Taxes
 
-10% tax will be charged on all transactions carried out using the phone2earn token being 4% Purchase and 6% Sales, the tax breakdown is as follows:
+**4% tax will be charged on all transactions carried out using the usephone2earn token being**&#x20;
+
+**2% Purchase (Liquidity)**&#x20;
+
+**2% Sales (Marketing)**
+
+
 
 * **Marketing & Development** - 2% These funds will be dedicated to promoting the development of the metaverse, the funds will be strategically divided between development and marketing plans.
 * **Liquidity Pool**- 2% These funds will be used to add more liquidity to the liquidity pool to stabilize the chart.
-* **Application Ecosystem** - 6% These funds will be used to create and feed the application usage reward system
+
+****
