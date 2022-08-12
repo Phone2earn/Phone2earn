@@ -24,7 +24,9 @@
   * [📳 Privileges for investors and users](overview/benefits-for-investors-and-users/privileges-for-investors-and-users.md)
   * [📳 Increase your cycle of friendships and contacts](overview/benefits-for-investors-and-users/increase-your-cycle-of-friendships-and-contacts.md)
   * [📳 Routine](overview/benefits-for-investors-and-users/routine.md)
-* [📱 NFT Collection](overview/nft-collection.md)
+* [📱 NFT Collection](overview/nft-collection/README.md)
+  * [➡ Access our collection of NFT's](https://opensea.io/collection/kinglionz)
+  * [➡ Visit the official profile at Opensea](https://opensea.io/Phone2Earn)
 
 ## Tokenomics
 
