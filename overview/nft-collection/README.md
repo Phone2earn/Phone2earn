@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/GIT.jpg
-coverY: .inf
+coverY: 0
 ---
 
 # 📱 NFT Collection
