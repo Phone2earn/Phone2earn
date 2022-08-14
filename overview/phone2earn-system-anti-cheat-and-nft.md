@@ -16,5 +16,3 @@ coverY: 0
 * Participants' accounts will show earned tokens on the dashboard while their wallet is connected.
 * After reaching a pre-set usage time of min 5 hours, you can claim your winnings via the claim button on the dashboard.
 * As a counter-cheat, we have implemented different challenges where only human interaction will be valid, ensuring that the platform is being used correctly and that it does not benefit bots or automation systems.
-
-{% embed url="https://youtu.be/W528OTp4B_s" %}
