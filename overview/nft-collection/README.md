@@ -16,6 +16,7 @@ Here are some models from our NC collection
 
 ![](../../.gitbook/assets/1.png) ![](<../../.gitbook/assets/2 (2).png>) ![](../../.gitbook/assets/3.png) ![](../../.gitbook/assets/4.png) ![](../../.gitbook/assets/5.png) ![](../../.gitbook/assets/6.png)
 
-****
+{% embed url="https://opensea.io/Phone2Earn" %}
 
+[https://opensea.io/collection/kinglionz](https://opensea.io/collection/kinglionz) - Acess our collection of NFT's\
 ****
