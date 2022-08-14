@@ -13,4 +13,8 @@ coverY: 0
 * [x] Marketing 7%&#x20;
 * [x] Cex Listing 10%
 
+**TAXES**
+
+* 0% tax will be charged on all transactions carried out using the usephone2earn token
+
 ![](../.gitbook/assets/photo\_2022-08-11\_00-05-08.jpg)
