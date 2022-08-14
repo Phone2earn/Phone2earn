@@ -7,4 +7,4 @@ coverY: 0
 
 * The objective of our project is to make you earn while doing everything you normally do on a daily basis using your cell phone. The real revolution is turning something that is already in most of our day into something profitable.
 
-![](../.gitbook/assets/about.png)
+{% embed url="https://youtu.be/l4rQq3ji1C8" %}
