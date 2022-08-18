@@ -18,3 +18,7 @@ coverY: 0
 * 0% tax will be charged on all transactions carried out using the usephone2earn token
 
 ![](../.gitbook/assets/photo\_2022-08-11\_00-05-08.jpg)
+
+{% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
+
+{% embed url="https://bscscan.com/token/0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef" %}

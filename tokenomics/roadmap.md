@@ -11,7 +11,7 @@ coverY: 0
 * [x] **Social Media**
 * [ ] **Markenting expansive**
 * [x] **Whitepaper**
-* [ ] **KYC**
+* [x] **KYC**
 * [ ] **Audit**
 * [ ] **Community Growth**
 
