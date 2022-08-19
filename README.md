@@ -10,12 +10,12 @@ coverY: 0
 
 {% embed url="https://youtu.be/zTWh-RWs30w" %}
 
-{% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
-**KYC**
-{% endembed %}
-
 {% embed url="https://bscscan.com/token/0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef" %}
 **Contract Official**
+{% endembed %}
+
+{% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
+**KYC**
 {% endembed %}
 
 {% embed url="https://github.com/blocksafu111/audit/blob/main/Phone2Earn-Audit-by-BlockSAFU.pdf" %}
