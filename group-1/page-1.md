@@ -22,3 +22,5 @@ coverY: 0
 {% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
 
 {% embed url="https://bscscan.com/token/0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef" %}
+
+{% embed url="https://github.com/blocksafu111/audit/blob/main/Phone2Earn-Audit-by-BlockSAFU.pdf" %}
