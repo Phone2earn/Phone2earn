@@ -9,7 +9,7 @@ coverY: 0
 
 * [x] **Website**
 * [x] **Social Media**
-* [ ] **Markenting expansive**
+* [x] **Markenting expansive**
 * [x] **Whitepaper**
 * [x] **KYC**
 * [x] **Audit**
