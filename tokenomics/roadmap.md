@@ -12,7 +12,7 @@ coverY: 0
 * [ ] **Markenting expansive**
 * [x] **Whitepaper**
 * [x] **KYC**
-* [ ] **Audit**
+* [x] **Audit**
 * [ ] **Community Growth**
 
 **STEP 2**

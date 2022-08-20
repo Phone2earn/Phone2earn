@@ -33,7 +33,7 @@
 * [📞 Tokenomics](group-1/page-1.md)
 * [📞 Roadmap](tokenomics/roadmap.md)
 * [📞 Partnerships](tokenomics/partnerships.md)
-* [➡ Fairlaunch](https://www.pinksale.finance/?chain=BSC)
+* [➡ Fairlaunch](https://www.pinksale.finance/launchpad/0xfFBD41E1699c0A8Cb29055b49cbcFee3DD89250D?chain=BSC)
 
 ## access our social networks:&#x20;
 
