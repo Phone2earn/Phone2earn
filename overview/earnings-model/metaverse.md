@@ -5,4 +5,4 @@ coverY: 0
 
 # 📳 Metaverse
 
-* [x] Organize events, with rewards, quiz, games, even a trip, party inside the metaverse and receive tokens depending on the type of activation chosen.
+* [x] Create events with rewards, quizzes, games, even a trip, party inside metaverse and receive tokens depending on the type of activation chosen.

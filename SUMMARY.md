@@ -3,8 +3,8 @@
 ## Overview
 
 * [📱 Phone2earn](README.md)
-* [📶 Our objective](overview/our-objective.md)
-* [📱 How it works?](overview/how-it-works.md)
+* [📶 Our goal](overview/our-goal.md)
+* [📱 How does it work?](overview/how-does-it-work.md)
 * [📶 From routine to profits](overview/from-routine-to-profits.md)
 * [📱 Phone2Earn System, Anti-cheat and NFT](overview/phone2earn-system-anti-cheat-and-nft.md)
 * [📲 Features](overview/features/README.md)

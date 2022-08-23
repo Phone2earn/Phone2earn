@@ -6,9 +6,9 @@ coverY: 0
 # 📱 NFT Collection
 
 * 200 Mystery Drop NFTs will be distributed to the top 200 Fairlaunch contributors.
-*   Announcement of winners and distribution will be after 20 days the NFT's Mystery Drop will be distributed.
+*   Announcement of winners and distribution will be after 20 days the NFTs Mystery Drop will be distributed.
 
-    Note: Winners must have at least 50% of the tokens in holding
+    • Note: Winners must have at least 50% of the tokens in holding.
 
 ![](../../.gitbook/assets/11.png) ![](../../.gitbook/assets/22.PNG) ![](../../.gitbook/assets/33.PNG) ![](../../.gitbook/assets/44.png) ![](../../.gitbook/assets/55.PNG) ![](../../.gitbook/assets/11.png)
 

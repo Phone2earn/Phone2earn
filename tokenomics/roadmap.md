@@ -13,7 +13,7 @@ coverY: 0
 * [x] **Whitepaper**
 * [x] **KYC**
 * [x] **Audit**
-* [ ] **Community Growth**
+* [x] **Community Growth**
 
 **STEP 2**
 
