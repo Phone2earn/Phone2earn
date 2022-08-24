@@ -14,6 +14,10 @@ coverY: 0
 **Contract Official**
 {% endembed %}
 
+{% embed url="https://etherscan.io/token/0xd8B175ED494cE6C04b53D9dC4bd8D1112497c323" %}
+**Contract ETH**
+{% endembed %}
+
 {% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
 **KYC**
 {% endembed %}
