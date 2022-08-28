@@ -11,15 +11,15 @@ coverY: 0
 {% embed url="https://youtu.be/zTWh-RWs30w" %}
 
 {% embed url="https://bscscan.com/token/0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef" %}
-**Contract Official**
+**Contract Official BNB**
 {% endembed %}
 
-{% embed url="https://etherscan.io/token/0xd8B175ED494cE6C04b53D9dC4bd8D1112497c323" %}
-**Contract ETH**
+{% embed url="https://etherscan.io/token/0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef" %}
+**Contract Official ETH**
 {% endembed %}
 
 {% embed url="https://github.com/ContractChecker/KYC/blob/main/Phone2Earn_Token_0x9ca3f2cd3c11F01Cc5aaBb6dF1D63eadc5aFB8Ef_KYC_Certificate_By_ContractChecker.pdf" %}
-**KYC**
+**KYC**&#x20;
 {% endembed %}
 
 {% embed url="https://github.com/blocksafu111/audit/blob/main/Phone2Earn-Audit-by-BlockSAFU.pdf" %}

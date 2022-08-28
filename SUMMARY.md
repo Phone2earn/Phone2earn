@@ -34,7 +34,7 @@
 * [📞 Roadmap](tokenomics/roadmap.md)
 * [📞 Partnerships](tokenomics/partnerships.md)
 * [➡ Fairlaunch BNB](https://www.pinksale.finance/launchpad/0xfFBD41E1699c0A8Cb29055b49cbcFee3DD89250D?chain=BSC)
-* [➡ Fairlaunch ETH](https://www.pinksale.finance/launchpad/0xC0Cbe9DfFc48692d2C3FaDb561933C68e2815EB6?chain=ETH)
+* [➡ Fairlaunch ETH](https://www.pinksale.finance/launchpad/0x159a55c44cCD5908C3c997abeCa51718468A2e04?chain=ETH)
 
 ## access our social networks:&#x20;
 
